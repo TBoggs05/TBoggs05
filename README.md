@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TBoggs05
+- I'm an aspring CS and Math student from Oklahoma looking to pursue a programming or engineering related career.
+-  I build small indie games and apps using C++ in my free time between classes.
+-  I love Video Games and Technology
+-  New to Github!
